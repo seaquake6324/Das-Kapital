@@ -1,0 +1,13 @@
+{
+  "itemGroup.daskapital": "Example Mod Tab",
+  "block.daskapital.example_block": "Example Block",
+  "item.daskapital.example_item": "Example Item",
+
+  "daskapital.configuration.title": "Das Kapital Configs",
+  "daskapital.configuration.section.daskapital.common.toml": "Das Kapital Configs",
+  "daskapital.configuration.section.daskapital.common.toml.title": "Das Kapital Configs",
+  "daskapital.configuration.items": "Item List",
+  "daskapital.configuration.logDirtBlock": "Log Dirt Block",
+  "daskapital.configuration.magicNumberIntroduction": "Magic Number Text",
+  "daskapital.configuration.magicNumber": "Magic Number"
+}
